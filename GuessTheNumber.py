@@ -1,3 +1,16 @@
+# This project was built by Omer Sha'ashua in order to practice python and coding.
+# This is a game in which the computer chooses a number and the user needs to guess it.
+# The user is first promoted to choose the difficulty level which in accordance the range
+# of the numbers the computer is allowed to choose from and the amount of attempts the user
+# has to guess the right number is decided.
+#
+# In order to make the game as flawless as possible, there are input validation methods
+# to ensure the player will not be able to make the game crash.
+#
+# If you found anything problematic, have an idea on how to improve the game either by code
+# or by adding some functionality, please let me know.
+# You can view this project on GitHub: https://github.com/omersha-dev/GuessTheNumber
+
 import random
 
 class Game:
